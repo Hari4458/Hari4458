@@ -48,7 +48,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
   <img width="12" />
-  <img src="https://freebiehive.com/wp-content/uploads/2023/04/Chat-GPT-Icon-PNG.jpg" height="40" alt="chatgpt logo"  />
+  <img src="https://cdn.iconscout.com/icon/free/png-256/free-chatgpt-logo-icon-download-in-svg-png-gif-file-formats--chat-gpt-ai-tool-artificial-intelligence-productivity-apps-pack-logos-icons-8630392.png?f=webp&w=256" height="40" alt="chatgpt logo"  />
 </div>
 
 ###
