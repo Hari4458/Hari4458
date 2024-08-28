@@ -36,7 +36,8 @@
   <img width="12" />
   <img src="URL_TO_DESIGNING_ICON" height="40" alt="designing logo" />
   <img width="12" />
-  <img src="URL_TO_CHATGPT_ICON" height="40" alt="chatgpt logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chatgpt/chatgpt-original.svg" height="40" alt="chatgpt logo" />
+
 </div>
 
 ###
