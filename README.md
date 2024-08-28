@@ -15,7 +15,7 @@
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">Skills Obtained !</h2>
 
 ###
 
@@ -34,6 +34,19 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
+  <img src="https://cdn-icons-png.flaticon.com/512/953/953060.png" height="40" alt="designing logo"  />
+  <img width="12" />
+  <img src="https://blockchainappmaker.com/wp-content/uploads/2023/09/artificial-intelligence.png" height="40" alt="prompt-engineer logo"  />
+  <img width="12" />
+  
+
+###
+
+<h2 align="left">Tools I Used !</h2>
+
+###
+
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
