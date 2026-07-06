@@ -74,18 +74,3 @@ CTO	Institution's Innovation Council	2026 – Present
 Design Lead	Blockchain Innovation Club, REC	2024 – 2026
 Design Lead	CSE Department Newsletter	2024 – 2025
 ---
-📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hari4458&show_icons=true&theme=tokyonight&count_private=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hari4458&theme=tokyonight" height="165"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hari4458&layout=compact&theme=tokyonight" height="165"/>
-</p>
----
-<p align="center">
-  <i>"Turning ideas into impactful software, one line of code at a time."</i>
-</p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Hari4458&style=flat-square&color=blue" alt="profile views" />
-</p>
