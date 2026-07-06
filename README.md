@@ -110,6 +110,7 @@
   <i>"Turning ideas into impactful software, one line of code at a time."</i>
 </p>
 
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Hari4458&style=flat-square&color=blue" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Hari4458&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt="profile views" />
 </p>
